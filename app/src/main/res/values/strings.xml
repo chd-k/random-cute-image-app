@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomImageApp</string>
+    <string name="get_random_image">Get random image</string>
+    <string name="image_content_description">There is a random image</string>
+</resources>
